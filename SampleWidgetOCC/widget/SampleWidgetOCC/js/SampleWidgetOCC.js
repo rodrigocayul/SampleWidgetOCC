@@ -15,23 +15,22 @@ define(
 
         return {
 			
-			titulo: ko.observable(),			
-			
-			onLoad: function (widget){
-				widgetViewModel = widget;
-				
-				widgetViewModel.titulo("1° Titulo");
-				
-				setTimeout(function(){					
-					widgetViewModel.titulo("2° Nuevo Titulo");				
-				},3000);
-				
-	
-			},
-            beforeAppear: function()
-			{	   
-    
-            }
+		titulo: ko.observable(),			
+
+		onLoad: function (widget){
+			widgetViewModel = widget;
+
+			widgetViewModel.titulo("1° Titulo");
+
+			setTimeout(function(){					
+				widgetViewModel.titulo("2° Nuevo Titulo");				
+			},3000);
+
+
+		},
+		beforeAppear: function(){	   
+
+		}
         };
     }
 );
