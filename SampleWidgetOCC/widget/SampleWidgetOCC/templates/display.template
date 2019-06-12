@@ -1,0 +1,5 @@
+<div class="container">
+    <div>
+		<h1 data-bind="text:titulo">SampleWidgetOCC</h1>
+    </div>
+</div>

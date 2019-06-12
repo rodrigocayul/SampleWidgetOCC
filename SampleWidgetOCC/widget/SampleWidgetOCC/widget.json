@@ -1,0 +1,22 @@
+{
+  "availableToAllPages": true,
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "SampleWidgetOCC",
+  "imports": [],
+  "javascript": "SampleWidgetOCC",
+  "jsEditable": true,
+  "minWidth": 1,
+  "translations": [
+    {
+      "language": "en",
+      "name": "SampleWidgetOCC"
+    },
+    {
+      "language": "es",
+      "name": "SampleWidgetOCC"
+    }
+  ],
+  "version": 0
+}

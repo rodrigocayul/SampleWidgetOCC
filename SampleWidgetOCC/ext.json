@@ -1,0 +1,19 @@
+{
+    "createdBy": "Rodrigo Cayul",
+    "translations": [
+        {
+            "name": "SampleWidgetOCC",
+            "description": "SampleWidgetOCC",
+            "language": "en"
+        },
+        {
+            "name": "SampleWidgetOCC",
+            "description": "SampleWidgetOCC",
+            "language": "es"
+        }
+    ],
+    "developerID": "000",
+    "extensionID": "xxxxxxxxxx ID xxxxxxxxxxxx",
+    "timeCreated": "2019-01-01",
+    "version": 0
+}
